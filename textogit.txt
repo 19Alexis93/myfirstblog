@@ -1,0 +1,5 @@
+Guardando primer archivo de exto plano para practica con git
+
+Desarrollado por Alexis Salazar Sanchez
+
+09112022
