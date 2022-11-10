@@ -1,5 +1,7 @@
 Guardando primer archivo de exto plano para practica con git
 
-Desarrollado por Alexis Salazar Sanchez
+Desarrollado por Ricardo Alexis Salazar Sanchez,
 
 09112022
+
+nuevas lineas agregadas al archivo
